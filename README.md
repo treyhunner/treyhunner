@@ -15,7 +15,7 @@ I also help individuals level-up their Python skills through [Python Morsels][] 
 
 
 [python training]: https://truthful.technology
-[django training]: https://django.training
+[django training]: https://www.django.training
 [python morsels]: https://www.pythonmorsels.com
 [python newsletter]: https://trey.io/news
 [on youtube]: https://www.youtube.com/@PythonMorsels
